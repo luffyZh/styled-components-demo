@@ -58,7 +58,7 @@ Error generating stack: `+u.message+`
   &:focus-visible {
     outline: 4px auto -webkit-focus-ring-color;
   }
-`,Fh="/assets/react-CHdo91hT.svg",Ah="/vite.svg",$h="/assets/todo-CoZ6VaDe.svg",rf=xu.p`
+`,Fh="/styled-components-demo/assets/react-CHdo91hT.svg",Ah="/styled-components-demo/vite.svg",$h="/styled-components-demo/assets/todo-CoZ6VaDe.svg",rf=xu.p`
   color: red;
   font-weight: bold;
 `,Uh=xu.div`
